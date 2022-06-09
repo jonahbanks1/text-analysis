@@ -20,6 +20,8 @@ https://towardsdatascience.com/the-most-favorable-pre-trained-sentiment-classifi
 https://towardsdev.com/natural-language-processing-nlp-45ba7ec8c5f5
 
 
+course: https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/using-lemmatizing?autoplay=true&u=16620580
+
 
 
 1. Set up your environment.
